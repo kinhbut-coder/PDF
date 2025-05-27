@@ -3,7 +3,7 @@ This tool can help you edit direct pdf text or etc ...<br>
 There are some small bug, you are welcome to post bug in ISSUE<br>
 There are a billion font in the word, so If you meet a font error when export pdf, please send me the font, I will update library
 #Demo page
-<a href="https://a2book.com/" target="_blank">https://a2book.com/ </a>
+<a href="https://saypdf.com/editor/" target="_blank">https://saypdf.com/editor/ </a>
 
 #Install
 1. Clone the source code
@@ -16,6 +16,6 @@ There are a billion font in the word, so If you meet a font error when export pd
 If you have any question, You can contact me via: <br>
 Email: ducnhatvo@gmail.com<br>
 Skybe: live:c99a173043072052<br>
-Website: <a href="https://a2book.com/contact/" target="_blank">https://saypdf.com/contact/ </a>
+Website: <a href="https://saypdf.com/contact.html" target="_blank">https://saypdf.com/contact.html </a>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/ducnhatvo)
