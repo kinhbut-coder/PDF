@@ -14,7 +14,7 @@ There are a billion font in the word, so If you meet a font error when export pd
 
 #Contact:
 If you have any question, You can contact me via: <br>
-Email: cuanhns@gmail.com<br>
+Email: ducnhatvo@gmail.com<br>
 Skybe: live:c99a173043072052<br>
 Website: <a href="https://a2book.com/contact/" target="_blank">https://a2book.com/contact/ </a>
 
